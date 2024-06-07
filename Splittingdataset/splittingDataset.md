@@ -8,7 +8,7 @@ Splitting a dataset is a crucial step in machine learning to ensure that the mod
 
 ## Script Details
 
-The `SplittingDataset.py` script performs the following tasks:
+The `SplittingDataset.ipymb` script performs the following tasks:
 
 1. Loads a dataset from a CSV file.
 2. Splits the dataset into training and testing sets in an 80:20 ratio.
